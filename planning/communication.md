@@ -11,14 +11,15 @@
 
 ## Communication Schedule
 
-| Day |   How  | The topic of discussion |
+| Day |  How   | The topic of discussion |
 | --- | :----: | ----------------------- |
-|  1  | Office | Planning                |
-|  2  |  Zoom  | Development             |
+| 1   | Office | Planning                |
+| 2   |  Zoom  | Development             |
 
 ## Communication Channels
 
-- **GitHub Discussions**: <https://github.com/BF-FrontEnd-class-2025/group-4-loruki/discussions>
+- **GitHub Discussions**:
+  <https://github.com/BF-FrontEnd-class-2025/group-4-loruki/discussions>
 - **Slack**: `#bf-frontend-group-4`
 - **Video Calls**: Zoom
 
@@ -28,12 +29,12 @@
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: |
-| Artur  | 09 - 17 | 09 - 17 |  09 - 17  | 09 - 17  | 09 - 17 |
-| Alamgir| 09 - 17 | 09 - 17 |  09 - 17  | 09 - 17  | 09 - 17 |
-| Manloi | 09 - 17 | 09 - 17 |  09 - 17  | 09 - 17  | 09 - 17 |
-| Roman  | 09 - 17 | 09 - 17 |  09 - 17  | 09 - 17  | 09 - 17 |
+| Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  |
+| ------- | :-----: | :-----: | :-------: | :------: | :-----: |
+| Artur   | 09 - 17 | 09 - 17 |  09 - 17  | 09 - 17  | 09 - 17 |
+| Alamgir | 09 - 17 | 09 - 17 |  09 - 17  | 09 - 17  | 09 - 17 |
+| Manloi  | 09 - 17 | 09 - 17 |  09 - 17  | 09 - 17  | 09 - 17 |
+| Roman   | 09 - 17 | 09 - 17 |  09 - 17  | 09 - 17  | 09 - 17 |
 
 ### How many hours everyone has per day
 
