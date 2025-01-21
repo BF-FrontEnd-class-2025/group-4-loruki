@@ -1,10 +1,11 @@
-# Name of project
+# Loruki
 
-> A longer description
+> Loruki is a platform for building applications of all types with modern
+> architecture and scaling
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Loruki](#loruki)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,7 +23,7 @@
 
 ## General info
 
-> A short description
+> It is a cloud platform for large scale enterprise
 
 ## Screenshots
 
@@ -32,13 +33,13 @@
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
 - `npm run start`
+- `npm install`
 
 ## Code Examples
 
@@ -66,11 +67,14 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by HYF 2025 Group 4
 
 ## Contact
 
-By [Name]
+- [Alamgir](https://github.com/alamgir1973)
+- [Artur](https://github.com/gritchin-artur)
+- [Roman](https://github.com/kovbinka)
+- [Manloi](https://github.com/jimanloi)
 
 ## Instructions for use
 
@@ -79,14 +83,15 @@ By [Name]
 
 <!-- a guide to using this repository -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
+1. `git clone https://github.com/BF-FrontEnd-class-2025/group-4-loruki.git`
+2. `npm install`
 
 ## Code Quality Checks
 
 - `npm run format`: Makes sure all the code in this repository is well-formatted
   (looks good).
+  - `npm run format:check` : Verifies that the code follows the predefined
+    formatting rules.
 - `npm run lint:ls`: Checks to make sure all folder and file names match the
   repository conventions.
 - `npm run lint:md`: Will lint all of the Markdown files in this repository.
