@@ -19,8 +19,6 @@
     "Alamgir",
     "Artur",
     "Manloi"
-
-
   ],
   "ignorePaths": [
     "node_modules/**",
