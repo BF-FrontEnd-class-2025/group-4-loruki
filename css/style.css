@@ -297,10 +297,6 @@ pre {
     animation: slide-in-from-top 1s ease-in;
   }
 
-  .showcase-text {
-    animation: slide-in-from-left 1s ease-in;
-  }
-
   .showcase-form {
     justify-self: center;
     margin: auto;
