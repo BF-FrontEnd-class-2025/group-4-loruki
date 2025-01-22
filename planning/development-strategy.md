@@ -10,11 +10,13 @@
 - Clone the repo to a local machine
 - Create branches for each issue
 
-## Navigation bar
+## Main page
+
+### Navigation bar
 
 This feature develop on a branch `navigation-bar`
 
-### HTML
+#### HTML
 
 - Add !DOCTYPE html
 - Add html tag
@@ -28,9 +30,9 @@ This feature develop on a branch `navigation-bar`
 - Add `ul` tag
 - Add three `li` to `ul`
 
-### CSS
+#### CSS
 
-#### General style
+##### General style
 
 - Add style to `root`
 - Add style to `body`
@@ -44,7 +46,7 @@ This feature develop on a branch `navigation-bar`
 - Add style to `pre`
 - Add style to `hidden`
 
-#### Navbar style
+##### Navbar style
 
 - Add style to `navbar` class
 - Add style to `ul` navbar tag
@@ -52,11 +54,11 @@ This feature develop on a branch `navigation-bar`
 - Add style to `ul` and `a:hover` navbar tag
 - Add style to `navbar` and `flex`
 
-## Main content
+### Main content
 
 This feature develop on a branch `main-content`
 
-### HTML
+#### HTML
 
 - Add `section` tag
 - Add `div` tag to `section` tag
@@ -67,7 +69,7 @@ This feature develop on a branch `main-content`
 - Add `div` tag
 -
 
-### CSS
+#### CSS
 
 - Add style to `showcase`
 - Add style to `h1`
@@ -75,11 +77,11 @@ This feature develop on a branch `main-content`
 - Add style to `container`
 - Add style to `flex`
 
-## Request form
+### Request form
 
 This feature develop on a branch `request-form`
 
-### HTML
+#### HTML
 
 - Add `div` tag
 - Add `h2` tag to `div`
@@ -88,7 +90,7 @@ This feature develop on a branch `request-form`
 - Add `input` tag to each `div`
 - Add `input` tag
 
-### CSS
+#### CSS
 
 - Add style to `showcase` and `grid`
 - Add style to `showcase-text`
@@ -97,11 +99,11 @@ This feature develop on a branch `request-form`
 - Add style to `card`
 - Add style to `showcase::before` and `showcase::after`
 
-## Statistic section
+### Statistic section
 
 This feature develop on a branch `stats-section`
 
-### HTML
+#### HTML
 
 - Add `section` tag
 - Add `div` tag into `section`
@@ -112,18 +114,18 @@ This feature develop on a branch `stats-section`
 - Add three `h3` into each three `div`
 - Add three `p` into each three `div`
 
-### CSS
+#### CSS
 
 - Add style to `stats`
 - Add style to `stats-heading`
 - Add style to `stats` and `grid` `h3`
 - Add style to `stats` and `grid` `p`
 
-## CLI section
+### CLI section
 
 This feature develop on a branch `cli`
 
-### HTML
+#### HTML
 
 - Add `section` tag
 - Add `div` tag into `section`
@@ -134,16 +136,16 @@ This feature develop on a branch `cli`
 - Add `div` tag
 - Add `h3` tag into `div` tag
 
-### CSS
+#### CSS
 
 - Add style `cli` and `grid`
 - Add style `first-child` into `cli` and `grid`
 
-## Cloud section
+### Cloud section
 
 This feature develop on a branch `cloud-section`
 
-### HTML
+#### HTML
 
 - Add `section` tag
 - Add `div` tag
@@ -153,15 +155,15 @@ This feature develop on a branch `cloud-section`
 - Add `a` into `div`
 - Add `img` tag
 
-### CSS
+#### CSS
 
 - Add style to `cloud` and `grid`
 
-## Languages section
+### Languages section
 
 This feature develop on a branch `languages-section`
 
-### HTML
+#### HTML
 
 - Add `section` tag
 - Add `h2` into `section` tag
@@ -169,18 +171,18 @@ This feature develop on a branch `languages-section`
 - Add seven `div` into `div`
 - Add `h4` and `img` into each `div`
 
-### CSS
+#### CSS
 
 - Add style to `languages` and `flex`
 - Add style to `languages` and `card`
 - Add style to `languages` and `card` and `h4`
 - Add style to `languages` and `card:hover`
 
-## Footer
+### Footer
 
 This feature develop on a branch `footer`
 
-### HTML
+#### HTML
 
 - Add `footer` tag
 - Add `div` tag into `footer`
@@ -192,7 +194,7 @@ This feature develop on a branch `footer`
 - Add `div` into `div`
 - Add four `a` tag into `div`
 
-### CSS
+#### CSS
 
 - Add style to `footer` and `social` and `a`
 - Add style to `fa-github:hover`
@@ -200,13 +202,97 @@ This feature develop on a branch `footer`
 - Add style to `fa-instagram:hover`
 - Add style to `fa-twitter:hover`
 
-## Animation
+### Animation
 
 This feature develop on a branch `animation`
 
-### CSS
+#### CSS
 
 - Add animation `slideInFromLeft`
 - Add animation `slideInFromRight`
 - Add animation `slideInFromTop`
 - Add animation `slideInFromBottom`
+
+## Features page
+
+### Navigation bar
+
+This feature develop on a branch `features-navbar`
+
+#### HTML
+
+- Add div tag class "navbar"
+- Add div class=`container flex`
+- Add h1 class=`logo`
+- Add `nav` tag
+- Add `ul` tag
+- Add three `li` to `ul`
+
+#### CSS
+
+- Add style to `navbar` class
+- Add style to `ul` navbar tag
+- Add style to `a` navbar tag
+- Add style to `ul` and `a:hover` navbar tag
+- Add style to `navbar` and `flex`
+
+### Head section
+
+This feature develop on a branch `features-head`
+
+#### HTML
+
+- Add `section` tag
+- Add `div` tag
+
+#### CSS
+
+- Add style to `features-head`
+
+### Sub head section
+
+This feature develop on a branch `features-sub-head`
+
+#### HTML
+
+- Add `section` tag
+- Add `div` tag
+
+#### CSS
+
+- Add style to `features-head`
+
+### Features section
+
+#### HTML
+
+- Add `div` section tags
+- Add `div` tag
+
+#### CSS
+
+- Add style to `container` and `card`
+
+### Footer
+
+This feature develop on a branch `footer`
+
+#### HTML
+
+- Add `footer` tag
+- Add `div` tag into `footer`
+- Add `div` into `div`
+- Add `h1` and `p` into `div`
+- Add `nav` tag
+- Add `ul` tag into `nav`
+- Add three `li` tag into `ul`
+- Add `div` into `div`
+- Add four `a` tag into `div`
+
+#### CSS
+
+- Add style to `footer` and `social` and `a`
+- Add style to `fa-github:hover`
+- Add style to `fa-facebook:hover`
+- Add style to `fa-instagram:hover`
+- Add style to `fa-twitter:hover`
