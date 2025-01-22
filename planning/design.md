@@ -2,6 +2,6 @@
 
 ## Wireframe
 
-<https://excalidraw.com/#json=1kss7mdGMlKzNW92Ktuu_,RcylwZ4LOVUbRK_1xWCiYQ>
+<https://excalidraw.com/#json=TBIYhGJ1lsbH-bsDHC2ki,P452Uh8oJCCpidpLQx-2Iw>
 
 ![website-design](./design.png)
