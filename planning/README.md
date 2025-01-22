@@ -70,7 +70,7 @@ relationships will make it possible go from a disorganized backlog to an
 organized development strategy.
 
 Understanding these dependencies can also allow you to develop much more
-efficiently. You can develope user stories that do not depend on each other in
+efficiently. You can develop user stories that do not depend on each other in
 parallel instead of waiting for one to finish before moving on the next.
 
 Here are some questions you can ask yourself to help understand your project:
