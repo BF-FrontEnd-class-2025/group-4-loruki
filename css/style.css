@@ -373,3 +373,9 @@ pre {
     width: 300px;
   }
 }
+
+.sp {
+  position: absolute; 
+  overflow: hidden; 
+  display: none;
+}
