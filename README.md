@@ -23,11 +23,11 @@
 
 ## General info
 
-> It is a cloud platform for large scale enterprise
+> This is the website of the cloud hosting platform **Loruki**.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/screenshot.png)
 
 ## Technologies
 
@@ -43,27 +43,43 @@
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```html
+    <div class="navbar">
+      <div class="container flex">
+        <h1 class="logo"><a href="index.html">Loruki.</a></h1>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="features.html">Features</a></li>
+            <li><a href="docs.html">Docs</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+```
+
+```css
+:root {
+  --primary-color: #047aed;
+  --secondary-color: #1c3fa8;
+  --dark-color: #002240;
+  --light-color: #f4f4f4;
+  --success-color: #5cb85c;
+  --error-color: #d9534f;
+}
 ```
 
 ## Features
 
-List of features ready and Todos for future development
+List of features ready
 
--
--
--
-
-To-do list:
-
--
--
+- app hosting
+- website hosting
+- database hosting
 
 ## Status
 
-Project is: _in progress_
+Project first phase: _finished_
 
 ## Inspiration
 
