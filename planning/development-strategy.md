@@ -298,3 +298,77 @@ This feature develop on a branch `footer`
 - Add style to `fa-facebook:hover`
 - Add style to `fa-instagram:hover`
 - Add style to `fa-twitter:hover`
+
+## Docs page
+
+### Navigation bar
+
+This feature develop on a branch `docs-navbar`
+
+#### HTML
+
+- Add div tag class "navbar"
+- Add div class=`container flex`
+- Add h1 class=`logo`
+- Add `nav` tag
+- Add `ul` tag
+- Add three `li` to `ul`
+
+#### CSS
+
+- Add style to `navbar` class
+- Add style to `ul` navbar tag
+- Add style to `a` navbar tag
+- Add style to `ul` and `a:hover` navbar tag
+- Add style to `navbar` and `flex`
+
+### Head section
+
+This feature develop on a branch `docs-head`
+
+#### HTML
+
+- Add `section` tag
+- Add `div` tag
+
+#### CSS
+
+- Add style to `docs-head`
+
+### Docs main section
+
+This feature develop on a branch `docs-main`
+
+#### HTML
+
+- Add `section` tag
+- Add `div` tag
+- Add `nav` tag
+
+#### CSS
+
+- Add style to `docs-main`
+
+### Footer
+
+This feature develop on a branch `footer`
+
+#### HTML
+
+- Add `footer` tag
+- Add `div` tag into `footer`
+- Add `div` into `div`
+- Add `h1` and `p` into `div`
+- Add `nav` tag
+- Add `ul` tag into `nav`
+- Add three `li` tag into `ul`
+- Add `div` into `div`
+- Add four `a` tag into `div`
+
+#### CSS
+
+- Add style to `footer` and `social` and `a`
+- Add style to `fa-github:hover`
+- Add style to `fa-facebook:hover`
+- Add style to `fa-instagram:hover`
+- Add style to `fa-twitter:hover`
