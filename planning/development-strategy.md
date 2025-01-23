@@ -264,6 +264,8 @@ This feature develop on a branch `features-sub-head`
 
 ### Features section
 
+This feature develop on a branch `features-section`
+
 #### HTML
 
 - Add `div` section tags
